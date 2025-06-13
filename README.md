@@ -24,9 +24,11 @@ Optional: After 20 minutes, Gamertags can be turned on
 
 6. Gamma:
 
-   60% Campers
-   60% Tommy Javis
-   70% Jason
+60% Campers
+   
+60% Tommy Javis
+
+70% Jason
 
 7. Natural Regeneration and title drops off
 
